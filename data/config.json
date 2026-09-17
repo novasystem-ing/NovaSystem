@@ -1,0 +1,21 @@
+{
+  "_comentario": "Cambia estos valores y corre 'npm run build' para actualizar TODO el sitio (nombre, teléfono, dominio, etc.) sin tocar el resto de archivos.",
+  "nombreNegocio": "NovaSystem Ingeniería",
+  "descripcionCorta": "Recuperación de televisores bloqueados en el logo y venta de software original para Android TV y Google TV.",
+  "telefonoWhatsApp": "573148827097",
+  "correo": "ventas@novasystemingenieria.com",
+  "ciudad": "Cali",
+  "region": "Valle del Cauca",
+  "pais": "CO",
+  "dominio": "https://novasystemingenieria.com",
+  "moneda": "COP",
+  "horario": {
+    "dias": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "abre": "08:00",
+    "cierra": "18:00"
+  },
+  "redes": {
+    "facebook": "",
+    "instagram": ""
+  }
+}

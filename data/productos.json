@@ -1,0 +1,99 @@
+{
+  "_comentario": "Cada clave es el modelo exacto. 'categoria' agrupa los productos en la tienda (ej: 'Google TV', 'Android TV', o el nombre real de una marca si lo conoces). El 'slug' de la URL se genera automáticamente a partir del modelo — no hace falta escribirlo a mano. Después de editar este archivo corre: npm run build",
+
+  "UHD 55KG85 BT GOOGLE T2": {
+    "brand": "CHALLENGER",
+    "modelo": "UHD 55KG85 BT GOOGLE T2",
+    "categoria": "Google TV",
+    "software": "upgrade_image_no_tvcertificate.pkg",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "85.000 COP",
+    "valor": 85000,
+    "pdf": ""
+  },
+
+  "UHD 50LO70 BT ANDROID T2": {
+    "brand": "CHALLENGER",
+    "modelo": "UHD 50LO70 BT ANDROID T2",
+    "categoria": "Android TV",
+    "software": "upgrade_image_no_tvcertificate.pkg",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  },
+
+  "UHD 58LO70 BT ANDROID T2": {
+    "brand": "CHALLENGER",
+    "modelo": "UHD 58LO70 BT ANDROID T2",
+    "categoria": "Android TV",
+    "software": "upgrade_image.pkg",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  },
+
+  "UHD 55HO60 BT ANDROID T2": {
+    "brand": "CHALLENGER",
+    "modelo": "UHD 55HO60 BT ANDROID T2",
+    "categoria": "Android TV",
+    "software": "upgrade_no_tvcertificate_RCA_4K_ATV_PA.pkg",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  },
+
+ "HYLED4322GIM": {
+    "brand": "HYUNDAI",
+    "modelo": "HYLED4322GIM",
+    "categoria": "Google TV",
+    "software": "upgrade_no_tvcertificate_RCA_4K_ATV_PA.pkg",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  },
+
+ "K-GTV43FHD": {
+    "brand": "KALLEY",
+    "modelo": "K-GTV43FHD",
+    "categoria": "Google TV",
+    "software": "install.img",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  }, 
+
+ "C50VAUG": {
+    "brand": "CAIXUN",
+    "modelo": "C50VAUG",
+    "categoria": "Google TV",
+    "software": "install.img",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  }, 
+
+  "UHD 65LO70 BT ANDROID T2": {
+    "brand": "CHALLENGER",
+    "modelo": "UHD 65LO70 BT ANDROID T2",
+    "categoria": "Android TV",
+    "software": "upgrade_image.pkg",
+    "main": "",
+    "estado": "Disponible",
+    "precio": "75.000 COP",
+    "valor": 75000,
+    "pdf": ""
+  }
+}

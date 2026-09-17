@@ -1,0 +1,13 @@
+{
+  "name": "novasystem-tienda",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sitio web y tienda de software para Smart TV de NovaSystem Ingeniería, generado como páginas estáticas para SEO + funciones serverless de Mercado Pago.",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "mercadopago": "^2.0.15"
+  }
+}
